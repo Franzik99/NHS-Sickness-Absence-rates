@@ -1,4 +1,5 @@
 # NHS-Sickness-Absence-Rates
+**Project Date : 02 t0 12th January 2026**
 ## Background
 This project analyses and forecasts NHS workforce sickness absence trends using official NHS Digital data. The objective is to understand long-term patterns, 
 seasonality, and structural changes in absence rates, and to build predictive insights that can support workforce planning and cost optimisation. 
